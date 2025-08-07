@@ -40,11 +40,14 @@
 - 🔭 Currently working on [LangChain SQL Chatbot](https://github.com/02advait/SQL-Chatbot-using-LangChain)
 - 🛠️ Working on an end-to-end E-Commerce Behavior Analysis pipeline (HDFS + PySpark + Hive + AWS)
 - 📬 Reach me at: **02advait@gmail.com**
-- 🌱 Exploring: LangGraph, LangSmith, SageMaker, Lambda, ARIMA/SARIMA/LSTM forecasting
+- 🌱 Exploring:
+        1. LangChain,
+        2. AWS(S3, IAM, Sagemaker, Lambda),
+        3. Time Series ( ARIMA/SARIMA/LSTM/Prophet
 
 ---
 
-<h2>💡 Motto</h2>
+<h2>💡 Aim </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=800&lines=Learning+never+stops.;LLMs+for+real+impact.;Code.+Train.+Ship.+Repeat.;Big+Data.+Smart+Decisions."/>
