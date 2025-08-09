@@ -18,7 +18,7 @@
 
 <h2>🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Programmer Animation" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/5e1b2e161927343.63dc8d6b0f8de.gif">
 
 <pre>
 💡  Hello World! I'm Advait Patil
@@ -37,13 +37,13 @@
 🧠  Belief: Keep building, keep breaking, and always keep learning.
 </pre>
 
-- 🔭 Currently working on [LangChain SQL Chatbot](https://github.com/02advait/SQL-Chatbot-using-LangChain)  
-- 🛠️ Working on an end-to-end E-Commerce Behavior Analysis pipeline (HDFS + PySpark + Hive + AWS)  
-- 📬 Reach me at: **02advait@gmail.com**  
+- 🔭 Currently working on [LangChain SQL Chatbot](https://github.com/02advait/SQL-Chatbot-using-LangChain)
+- 🛠️ Working on an end-to-end E-Commerce Behavior Analysis pipeline (HDFS + PySpark + Hive + AWS)
+- 📬 Reach me at: **02advait@gmail.com**
 - 🌱 Exploring:
-    1. LangChain  
-    2. AWS (S3, IAM, SageMaker, Lambda)  
-    3. Time Series (ARIMA/SARIMA/LSTM/Prophet)  
+        1. LangChain,
+        2. AWS(S3, IAM, Sagemaker, Lambda),
+        3. Time Series ( ARIMA/SARIMA/LSTM/Prophet
 
 ---
 
@@ -108,9 +108,9 @@
 
 <h2>📜 Certifications & Courses</h2>
 
-- Certified in Python programming from Upgrad Campus.  
-- Certified in Data Science & Analytics from Upgrad Campus. (8 Months)  
-- Complete Data Science, Machine Learning, DL, NLP Bootcamp (Udemy)  
+- Certified in Python programming from Upgrad Campus.
+- Certified in Data Science & Analytics from Upgrad Campus. (8 Months) 
+- Complete Data Science, Machine Learning, DL, NLP Bootcamp ( Udemy ) 
 
 ---
 
@@ -133,3 +133,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+%e2%9c%8c%ef%b8%8f;+Let's+connect+on+LinkedIn!">
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=02advait&label=Profile+Views&color=0e75b6&style=flat" alt="02advait profile views"/>
+</p>
