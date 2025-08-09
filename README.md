@@ -95,11 +95,10 @@
 ---
 
 <h2>📂 Featured Projects</h2>
-
-- 💬 [SQL Chatbot using LangChain](https://github.com/02advait/SQL-Chatbot-using-LangChain): LLM-powered SQL assistant  
-- 🛒 [E-Commerce Behavior Analysis (Big Data Project)]([https://github.com/02advait/ECommerce-BigData](https://github.com/02advait/E-commerce-Analytics-Predictive-Platform-))
-- 🔍 [Ola-Data-Analytics]([https://github.com/02advait](https://github.com/02advait/Ola-Data-Analytics)):  
-- 📈 [Case_Study_Fraud_Detection]([https://github.com/02advait](https://github.com/02advait/Case_Study_Fraud_Detection))
+- 💬 [SQL Chatbot using LangChain](https://github.com/02advait/SQL-Chatbot-using-LangChain) — LLM-powered SQL assistant  
+- 🛒 [E-Commerce Behavior Analysis (Big Data Project)](https://github.com/02advait/E-commerce-Analytics-Predictive-Platform-) — End-to-end Hadoop + PySpark analytics pipeline for e-commerce data  
+- 🔍 [Ola Data Analytics](https://github.com/02advait/Ola-Data-Analytics) — Data cleaning, EDA, and insights from Ola ride datasets  
+- 📈 [Case Study: Fraud Detection](https://github.com/02advait/Case_Study_Fraud_Detection) — Machine learning models to detect fraudulent transactions  
 
 ---
 
