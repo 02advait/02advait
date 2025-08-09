@@ -18,7 +18,8 @@
 
 <h2>🚀 About Me</h2>
 
-<img align="right" alt="Programmer Animation" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/5e1b2e161927343.63dc8d6b0f8de.gif">
+<img align="right" alt="Programmer Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <pre>
 💡  Hello World! I'm Advait Patil
