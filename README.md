@@ -24,7 +24,8 @@
 <pre>
 💡  Hello World! I'm Advait Patil
 
-🔍  Frontend developer turned ML enthusiast working on scalable data-driven solutions.
+🔍  I want to make a career in Data Domain, 
+  - I am someone wao loves to clean and Train Ml modlel to find solutions to real world problems
 🔗  Actively building LangChain-based AI assistants and working on Big Data projects using AWS.
 
 🎓  Currently: BTech Computer Engineering | Learning LangChain, LLMs, Big Data tools
