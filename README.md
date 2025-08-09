@@ -94,7 +94,8 @@
 
 ---
 
-<h2>📂 Featured Projects</h2>
+📂 **Featured Projects**
+
 - 💬 [SQL Chatbot using LangChain](https://github.com/02advait/SQL-Chatbot-using-LangChain) — LLM-powered SQL assistant  
 
 - 🛒 [E-Commerce Behavior Analysis (Big Data Project)](https://github.com/02advait/E-commerce-Analytics-Predictive-Platform-) — End-to-end Hadoop + PySpark analytics pipeline for e-commerce data  
