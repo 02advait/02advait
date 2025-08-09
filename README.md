@@ -97,18 +97,17 @@
 <h2>📂 Featured Projects</h2>
 
 - 💬 [SQL Chatbot using LangChain](https://github.com/02advait/SQL-Chatbot-using-LangChain): LLM-powered SQL assistant  
-- 🛒 [E-Commerce Behavior Analysis (Big Data Project)](https://github.com/02advait/ECommerce-BigData): Pipeline using HDFS, Hive, PySpark, AWS  
-- 🔍 [Review Sentiment + Clustering](https://github.com/02advait): Combined unsupervised clustering and sentiment analysis  
-- 📈 [Time Series Forecasting](https://github.com/02advait): Forecasting sales using ARIMA, LSTM, Prophet
+- 🛒 [E-Commerce Behavior Analysis (Big Data Project)]([https://github.com/02advait/ECommerce-BigData](https://github.com/02advait/E-commerce-Analytics-Predictive-Platform-))
+- 🔍 [Ola-Data-Analytics]([https://github.com/02advait](https://github.com/02advait/Ola-Data-Analytics)):  
+- 📈 [Case_Study_Fraud_Detection]([https://github.com/02advait](https://github.com/02advait/Case_Study_Fraud_Detection))
 
 ---
 
 <h2>📜 Certifications & Courses</h2>
 
-- Big Data Analytics with Hadoop – Ongoing  
-- LangChain Bootcamp – Internal  
-- Advanced Python for Data Science – Coursera  
-- Machine Learning with Scikit-learn – Kaggle  
+- Certified in Python programming from Upgrad Campus.
+- Certified in Data Science & Analytics from Upgrad Campus. (8 Months) 
+- Complete Data Science, Machine Learning, DL, NLP Bootcamp ( Udemy ) 
 
 ---
 
